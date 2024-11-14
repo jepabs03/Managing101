@@ -19,4 +19,4 @@ Today I want to talk about Customizing the Windows 10 Start Menu.
 <p>&mdash;Customizing color schemes to match personal preferences or themes.</p>
 <br>
 <br>
-<p>For more Windows 10 customization, check out our <a href="">"Managing Windows 10 Taskbar Settings</a>.</p>
+<p>For more Windows 10 customization, check out our <a href="https://github.com/jepabs03/Managing">"Managing Windows 10 Taskbar Settings</a>.</p>
