@@ -1,4 +1,9 @@
 ## Hi there 👋
+How are you today? <br>
+Today I want to talk about Customizing the Windows 10 Start Menu. 
+<br>
+<br>
+![customizingstartmenu_tiles](https://github.com/user-attachments/assets/6888cfb7-f413-460e-9bb3-6d8dc3f3c723)
 
 <!--
 **jepabs03/jepabs03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
